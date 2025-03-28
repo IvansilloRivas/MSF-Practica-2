@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=IvansilloRivas/MSF-Practica-2)
 
-# Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [Valle05211261]
+# Modelado de Sistemas Fisiológicos. Práctica 2: Sistema respiratorio [Rivas21212748]
 
 ## Autor
 Edgar Iván Rivas Rosas 
